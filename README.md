@@ -35,9 +35,10 @@ Solved.ac 커리큘럼 기반의 필수 문제 및 난이도별(Gold/Silver) 문
 기초 정렬부터 Java의 `Dual-Pivot Quicksort` 원리 이해 및 커스텀 정렬 구현법을 정리합니다.
 + 👉 [정렬에 대한 이야기 보기](./src/정렬에대한이야기/README.md)
 
-## ✍️ Repository StructurePlaintext.
+## ✍️ Repository Structure
 
 ```txt
+.
 └── src
     ├── Baekjun
     │     └── 단계별로풀어보기 (Step 05 ~ Step 32)

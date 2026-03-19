@@ -1,6 +1,10 @@
 # Programmers Level 문제 모음
 
-> 프로그래머스 문제들을 단계별(Level)로 정리한 모음집 (Java)
+### [알고리즘 목차 돌아가기](../../../README.md)
+
+[← Programmers 메인으로](../README.md)
+
+---
 
 ## 📌 목차
 - [Level 0](#level-0)
@@ -18,5 +22,4 @@
 
 ---
 
-[⬆ 맨 위로 가기](#programmers-level-문제-모음)  
-[← Programmers 메인으로](../README.md)
+[⬆ 맨 위로 가기](#programmers-level-문제-모음)
